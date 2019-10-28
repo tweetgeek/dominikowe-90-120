@@ -1,27 +1,58 @@
 # Jak złożyć Skrzydło 90cm oraz 120cm
-![wing](images/Photo09-09-2019202126.jpg)
+W tej instrukcji postaram się opisać Wam mój procez budowy skrzydełka od Dominika.
+
+Budowa jest na wersji 90 ale z racji tego, że zbudowałem już 120 będę umieszczał też zdjęcia i uwagi dotyczące wersji 120.
+
+![wing](images/thumbnails/Photo09-09-2019202126.jpg)
 
 ## Potrzebne rzeczy
-![wing](images/Photo11-09-2019202911.jpg)
-![wing](images/Photo11-09-2019203125.jpg)
+- Kit od Dominika :)
+- 2x servo Emax 
+- silnik Emax RS2205S 2300kv
+- ESC Tattu 30A
+- GPS BN-220
+- Omnibus F4 v2
+- Eachine 1000tvl
+- FrSky XSR
+- lipo 1300mah 4s
+- UHU Por
+- CA Joker Rzadki
+- dodatkowo WS2812b
+
+![wing](images/thumbnails/Photo11-09-2019202911.jpg)
+
+![wing](images/thumbnails/Photo11-09-2019203125.jpg)
 
 ## Krok 1 - Klejenie połówek
-![wing](images/Photo11-09-2019203628.jpg)
-![wing](images/Photo11-09-2019203638.jpg)
-![wing](images/Photo11-09-2019203734.jpg)
-![wing](images/Photo11-09-2019204118.jpg)
-![wing](images/Photo11-09-2019204119.jpg)
-![wing](images/Photo11-09-2019210150.jpg)
+
+![wing](images/thumbnails/Photo11-09-2019203628.jpg)
+
+![wing](images/thumbnails/Photo11-09-2019203638.jpg)
+
+![wing](images/thumbnails/Photo11-09-2019203734.jpg)
+
+![wing](images/thumbnails/Photo11-09-2019204118.jpg)
+
+![wing](images/thumbnails/Photo11-09-2019204119.jpg)
+
+![wing](images/thumbnails/Photo11-09-2019210150.jpg)
 
 ## Krok 2 - Docinanie
-![wing](images/Photo15-09-2019120023.jpg)
-![wing](images/Photo15-09-2019120025.jpg)
-![wing](images/Photo15-09-2019120026.jpg)
-![wing](images/Photo15-09-2019120103.jpg)
-![wing](images/Photo15-09-2019120106.jpg)
-![wing](images/Photo15-09-2019120553.jpg)
-![wing](images/Photo15-09-2019120606.jpg)
-![wing](images/Photo15-09-2019121336.jpg)
+![wing](images/thumbnails/Photo15-09-2019120023.jpg)
+
+![wing](images/thumbnails/Photo15-09-2019120025.jpg)
+
+![wing](images/thumbnails/Photo15-09-2019120026.jpg)
+
+![wing](images/thumbnails/Photo15-09-2019120103.jpg)
+
+![wing](images/thumbnails/Photo15-09-2019120106.jpg)
+
+![wing](images/thumbnails/Photo15-09-2019120553.jpg)
+
+![wing](images/thumbnails/Photo15-09-2019120606.jpg)
+
+![wing](images/thumbnails/Photo15-09-2019121336.jpg)
 
 ## Krok 3 - Wklejamy wzmocnienia
  
